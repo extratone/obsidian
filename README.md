@@ -1,6 +1,10 @@
+[[ObsidianFolder.png]]
+
 # David Blue's Obsidian Repository
 
 ## Okay... I know I'm doing this again... but I'm going to try and be a bit more intentional about it, this time.
+
+Exploring Obsidian.
 
 app.json
 appearance.json

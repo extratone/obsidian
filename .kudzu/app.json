@@ -6,5 +6,7 @@
   "promptDelete": false,
   "trashOption": "none",
   "uriCallbacks": true,
-  "livePreview": false
+  "livePreview": false,
+  "attachmentFolderPath": "media",
+  "newFileLocation": "current"
 }

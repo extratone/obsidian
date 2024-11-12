@@ -1,0 +1,19 @@
+{
+  "pluginList": [
+    "Trulsaa/obsidian-icloud-contacts",
+    "nathonius/obsidian-trello",
+    "vslinko/obsidian-outliner",
+    "pyrochlore/obsidian-tracker"
+  ],
+  "pluginSubListFrozenVersion": [],
+  "themesList": [],
+  "updateAtStartup": true,
+  "updateThemesAtStartup": true,
+  "enableAfterInstall": true,
+  "loggingEnabled": true,
+  "loggingPath": "logs/BRAT",
+  "loggingVerboseEnabled": true,
+  "debuggingMode": false,
+  "notificationsEnabled": true,
+  "personalAccessToken": ""
+}
