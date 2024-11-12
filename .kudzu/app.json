@@ -1,0 +1,10 @@
+{
+  "showInlineTitle": false,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": false,
+  "showUnsupportedFiles": true,
+  "promptDelete": false,
+  "trashOption": "none",
+  "uriCallbacks": true,
+  "livePreview": false
+}

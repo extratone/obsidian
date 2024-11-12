@@ -1,0 +1,227 @@
+{
+  "main": {
+    "id": "5324373015726ba8",
+    "type": "split",
+    "children": [
+      {
+        "id": "00451dee0d5908bc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55ea6e86edfdc004",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "h.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "h"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5e93e46b7fd14927",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "1dc7799a8371d119",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "byCreatedTime"
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "677e9a10214bc349",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "a92ac3abf86c04f0",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "43a9a1f14ecd626d",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      },
+      {
+        "id": "963e181a0935c26d",
+        "type": "leaf",
+        "state": {
+          "type": "all-properties",
+          "state": {
+            "sortOrder": "frequency",
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-archive",
+          "title": "All properties"
+        }
+      },
+      {
+        "id": "84b0f7d25df62c19",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {},
+          "icon": "clock",
+          "title": "Recent Files"
+        }
+      }
+    ],
+    "currentTab": 0,
+    "pinned": true
+  },
+  "right": {
+    "id": "f064f005691e561c",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "03643548bdbf76f4",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "5362ffcf1028ff6b",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "2347cc4f84b5b078",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {},
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "command-palette:Open command palette": false,
+      "graph:Open graph view": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "markdown-importer:Open format converter": false,
+      "workspaces:Manage workspace layouts": false,
+      "obsidian-importer:Open Importer": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "canvas:Create new canvas": false
+    }
+  },
+  "active": "55ea6e86edfdc004",
+  "lastOpenFiles": [
+    "README.md",
+    "h.md",
+    "documentation/Obsidian Web Clipper.md",
+    "documentation/Save the web.md",
+    "automation, meta",
+    "automation/Labile Synonyms, Labile Antonyms | Merriam-Webster Thesaurus.md",
+    "automation/Apple Watch Series 5 review the best smartwatch.md",
+    "automation/Apple Watch Series 5 - Full phone specifications.md",
+    "automation/Apple unveils Apple Watch Series 5.md",
+    "automation/Apple Watch Series 5 - Technical Specifications - Apple Support.md",
+    "automation/Apple Watch Series 5 (Aluminum, GPS, 40 mm) Specs (Watch Series 5 40 mm, MWV82LLA**, Watch5,1, A2092*, 3317*) EveryMac.com.md",
+    "automation/Megathread of Threads resources, tools, extensions and links.md",
+    "automation/Megathread of Threads resources, tools, extensions and links 1.md",
+    "_debug_remotely_save/profiler_results_exported_on_1714219670522.md",
+    "gerogerigegege/HAAi on RA Exchange.md",
+    "gerogerigegege/raex737.png",
+    "gerogerigegege/ra775.PNG",
+    "root/Davod's Capture Library Index.md",
+    "haai-raexchange.mp3",
+    "IMG_3622.webp",
+    "Notion AI Mermaid Chart.md",
+    "gerogerigegege",
+    "canvas/SpaceHey.canvas",
+    "test",
+    "social/spacehey",
+    "Untitled 1",
+    "canvas",
+    "paper/Desk/Twitter_Thrives_on_Incompetence.md",
+    "paper/Desk/Dropbox_Paper_Review.md",
+    "paper/Desk/Remembering_Byte_Magazine.md",
+    "paper/Desk/Microsoft_Edge_for_iOS.md",
+    "paper/Desk/5_Days_of_Soylent_Isiah.md",
+    "paper/XIII_My_Very_Own_iOS_Release.md",
+    "paper/Brainstorm_Summer_Issue.md",
+    "paper/Equipment_Acquisition.md",
+    "paper/Gutenberg,_the_Future_of_WordPress.md",
+    "paper/thematchsellers_docx.md",
+    "paper/Extratone/Obituaries",
+    "paper/Extratone/Reference",
+    "paper/Extratone",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest1.jpg",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest3.jpg",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest2.jpg",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest6.jpg",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest7.jpg",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest5.jpg",
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest4.jpg"
+  ]
+}

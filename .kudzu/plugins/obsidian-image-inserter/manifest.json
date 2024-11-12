@@ -1,0 +1,10 @@
+{
+	"id": "image-inserter",
+	"name": "Image Inserter",
+	"version": "1.0.0",
+	"minAppVersion": "0.15.0",
+	"description": "Insert images from photo library or clipboard.",
+	"author": "MacStories",
+	"authorUrl": "https://www.macstories.net",
+	"isDesktopOnly": false
+}

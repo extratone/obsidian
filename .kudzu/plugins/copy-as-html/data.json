@@ -1,0 +1,6 @@
+{
+  "removeBrackets": true,
+  "removeEmphasis": false,
+  "removeTags": true,
+  "removeComments": false
+}

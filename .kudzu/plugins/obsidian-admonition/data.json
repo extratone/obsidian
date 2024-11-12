@@ -1,0 +1,50 @@
+{
+  "userAdmonitions": {
+    "kagi": {
+      "type": "kagi",
+      "color": "255, 179, 25",
+      "icon": {
+        "name": "data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAERlWElmTU0AKgAAAAgAAYdpAAQAAAABAAAAGgAAAAAAA6ABAAMAAAABAAEAAKACAAQAAAABAAAAGKADAAQAAAABAAAAGAAAAADiNXWtAAACvklEQVRIDbVWzWsTURD/7UeSdiNtbUohCrGCHhT1YMVWpRfrTYTqSfz4D+pBVBD8A4p3DwqCeFDUUwUvglUUoaKCtIKoh0ZTUkvTotYm3W26u87sy34keStV6sDsm/ebr915kzdRUKNKpTKsquqQpmndtG4g2PV1a1wVx3GWbNueo3XUMIxrgV+5XH7kuq5FvF5kcUwvAb85RV3P4P5LWrWqqEOUKRl8zlqFHxPA67PA2H7g01WZV5JLrnPNZVoptvoL8LgMjJ8A7GVhVv0pNefYeu1ApQYe6NrA1A2gcBeo5Ono6ewVjVbCmTb2AkaPJzY+OLZOYHy32BXg1Ung+9t6Xz9462ag7w6gt9Xrw52rhrJE+jgSBlfItH23YJaZlovA+8tCjnnGJzC/AV9uCTc1BfQ/AAYeC+6/DzDGVHxIpSsIWfKMT8Bd4jrCZcsZIHMwdM8cAnKna3uq8MJ4qGuQ4hPw5/tk5HwpXKOY302hNpDiE6S3BkaYexrKvlSKYG07fbRpjU/Q2QekuoRD6TkweQlY+ix48iJQeiF0bMOHH0PcpnLS00D3EWD6ntAXqB2ZG2nXCKC1NqLBPj7BPL3hNHVLHHHQHVeA7NE4Cw+XJ3AsYOICGVCHaC1A701g/iWw+EG8bcceYNNxIN3zx+CslCcwZ8WPiC1aslSqw4J5/5ckT1BdDMOU88C7YaCLej9KyU66h/bRPZyJok2yQhNoii6lSE+SjVMFnh2gr5hpcqgDuHzbzwPbztXB/oYmW17lMecDwaomgL3XgUR7AEkF2wT4vvp6W6rm2Ippmk9SqdSg1GJlAZil+2eVSsZd47FB9xDNp+IoMEPMlOgABt/QiVJrR8iyrDGdBzRhA8TNU43rmzsVcYmIfPD8w+MrO3uMZoQaUXriSi028O9D3/Hnb+MaDH3FT/u//rb8BolF1lS2uFSPAAAAAElFTkSuQmCC",
+        "type": "image"
+      },
+      "command": false,
+      "title": "Kagi Summarizer",
+      "injectColor": true,
+      "noTitle": false,
+      "copy": true
+    },
+    "fyi": {
+      "type": "fyi",
+      "color": "#7d7d7d",
+      "icon": {
+        "name": "exclamation",
+        "type": "font-awesome"
+      },
+      "command": false,
+      "title": "Note:",
+      "injectColor": true,
+      "noTitle": true
+    }
+  },
+  "syntaxHighlight": false,
+  "copyButton": true,
+  "version": "10.3.2",
+  "autoCollapse": false,
+  "defaultCollapseType": "open",
+  "injectColor": true,
+  "parseTitles": true,
+  "dropShadow": true,
+  "hideEmpty": true,
+  "open": {
+    "admonitions": true,
+    "icons": true,
+    "other": true,
+    "advanced": false
+  },
+  "icons": [],
+  "useFontAwesome": true,
+  "rpgDownloadedOnce": false,
+  "msDocConverted": false,
+  "useSnippet": true,
+  "snippetPath": "custom-admonitions.30def7"
+}
