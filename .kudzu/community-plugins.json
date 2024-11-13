@@ -22,5 +22,7 @@
   "obsidian-outliner",
   "obsidian-icon-folder",
   "obsidian-trello",
-  "icloud-contacts"
+  "icloud-contacts",
+  "email-block-plugin",
+  "eml-reader"
 ]

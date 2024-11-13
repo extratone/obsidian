@@ -1,0 +1,116 @@
+{
+  "vaults": [
+    "capture",
+    "kudzu"
+  ],
+  "template_1731345422729xz46j859l": [
+    "ᯡࡅ䁬⁼ၦǸڃ䤡〵䚡᧐瘤瀡瀫暠㘠嘠㡐ိ䐠㑀ϐࢀᛠ⦬ဦௐƐ֐ʕ熀ҍ怢滠෬]䉿ᔖᇲ浵琣䦖瀦᝹每塐࣐ሕ尢綿ᢢ෿៽䱨櫋㷊喽櫨㜇猥畸∶ॠ䷐፪ᷣ඗㭄揘䑂㺗Ⴄ啨ⷡ៖瀣ᲀú偨ὂԽ֠戀ǽ塒噁ذ丣⋡戃珺Ḕ䬌穑⽌᛬㔎䦁ࠢ㶫⏹崇ፍ⨶ú䓣⋖瀱瓸ࡅU䑤䶬洭ᨓ䭵ኺ৉䴂㉾䓒տⶀ㴮∦涖竒࢑㓺ќ䀧ᠠ曭㤴垳⢯ࣶؐ䔒㪽撻⛓࠶曦焲'湲ਈݔ!桓䰠¡䯄䄄筬˙䁔欪睆⣊ᠵ䐘Ť本⟁䚻⡇㜡眐⑉噘慂㔭݉䀠⎼ᧇ㑑≰䙁䢉狜䷢䁸ɷ杖­፸ڈ孥㖱ᄥ榘゜儬㒮Ꮎ໦㘈ℵ໧ဨͶ䏃楍ၕ呭姽㴫堩³佼坷沵㽬ᅠ⏕㑛④䍃堤Ŷ棠儺䈲孞Ԑſᓋᬐ⊺Ꭱⷆトᶵ罢`⊤䨨䌲ᇨ㌟滣䍊笁ᗁ劤⅐孟㣥㸤啈㢅朠ௌ塨恘⸲⩵偊䄗༘勍ᡮᅩ⃀  "
+  ],
+  "interpreter_settings": {
+    "models": [
+      {
+        "id": "gpt-4o-mini",
+        "provider": "OpenAI",
+        "baseUrl": "https://api.openai.com/v1/chat/completions",
+        "name": "GPT-4o Mini",
+        "enabled": true
+      },
+      {
+        "id": "gpt-4o",
+        "provider": "OpenAI",
+        "baseUrl": "https://api.openai.com/v1/chat/completions",
+        "name": "GPT-4o",
+        "enabled": true
+      },
+      {
+        "id": "gpt-o1-mini",
+        "provider": "OpenAI",
+        "baseUrl": "https://api.openai.com/v1/chat/completions",
+        "name": "GPT-o1 Mini",
+        "enabled": true
+      },
+      {
+        "id": "claude-3-5-sonnet-20240620",
+        "provider": "Anthropic",
+        "baseUrl": "https://api.anthropic.com/v1/messages",
+        "name": "Claude 3.5 Sonnet",
+        "enabled": true
+      },
+      {
+        "id": "claude-3-haiku-20240307",
+        "provider": "Anthropic",
+        "baseUrl": "https://api.anthropic.com/v1/messages",
+        "name": "Claude 3 Haiku",
+        "enabled": true
+      },
+      {
+        "id": "claude-3-opus-20240229",
+        "provider": "Anthropic",
+        "baseUrl": "https://api.anthropic.com/v1/messages",
+        "name": "Claude 3 Opus",
+        "enabled": true
+      }
+    ],
+    "openaiApiKey": "",
+    "defaultPromptContext": "{{fullHtml|strip_tags:(\"script,h1,h2,h3,h4,h5,h6,meta,a,ol,ul,li,p,em,strong,i,b,img,video,audio,math,tablecite,strong,td,th,tr,caption,u\")|strip_attr:(\"alt,src,href,id,content,property,name,datetime,title\")}}",
+    "anthropicApiKey": "",
+    "interpreterModel": "gpt-4o-mini",
+    "interpreterEnabled": false,
+    "interpreterAutoRun": false
+  },
+  "general_settings": {
+    "showMoreActionsButton": false,
+    "legacyMode": false,
+    "silentOpen": false,
+    "betaFeatures": false
+  },
+  "property_types": [
+    {
+      "name": "title",
+      "type": "text",
+      "defaultValue": "{{title}}"
+    },
+    {
+      "name": "source",
+      "type": "text",
+      "defaultValue": "{{url}}"
+    },
+    {
+      "name": "author",
+      "type": "multitext",
+      "defaultValue": "{{author|split:\", \"|wikilink|join}}"
+    },
+    {
+      "name": "published",
+      "type": "date",
+      "defaultValue": "{{published}}"
+    },
+    {
+      "name": "created",
+      "type": "date",
+      "defaultValue": "{{date}}"
+    },
+    {
+      "name": "description",
+      "type": "text",
+      "defaultValue": "{{description}}"
+    },
+    {
+      "name": "tags",
+      "type": "multitext",
+      "defaultValue": "clippings"
+    }
+  ],
+  "template_1731345407227d81jd5ist": [
+    "ᯡࡅ䁬⁼ၦǸڃ䤡〵䚠ᠰጾрǧKй䀹怫䐠㑀ϐࢀᛠ⦬အઐڊ怵怦潩䀱厠׋Wᠠ笠✾æᖽⶋ㥖㉻倮⇳䀸喛຾惡㓢檬瀫皘戠ǧ♯⣐ާ䰹䀮㛇㠺疜䫬嵘䖪䫾䬫㝵䟦楽漉㣮'䕄༁煲⢚㡵皼ईV吲Ϩ䅧ↂ瀨ࠠ睜ⓓϣȇͷ檸稍ບ႙⭈塻䪷を㮇᰹൰堶橆ܿࡪᏠ䏨Ǎ㐠⽜㙄Ⲗ൤嘱⯉⚆猫ၻ␈喝㸩徦ₖ盞悡䥢Ŗ#ㅴ㊂܅愐≺٪叙⾙䛬ł⢵#盀㰡ⴺ 甸!಻䖔怳䰠୐❼Ⲥ傤㼭姈ה筮嚬⇁呐(甫命㱝焓Ҳz䆲㡰ጽྚ汲䳆䞴ℌ忳䶊瘽ℵ䛢䐾⑌䖂℠✤凂梔պ᭐挶࡝巊㓖⺞别⅁Ő嚢瘒傭嬠䂊䵀⾅䔽㟆Ḿ元པ㳧㰞淗ႈ⅍ħ䙥儂糄ᨹƈ噘⬾㩠甠␱ы朠௄拰⩐ᑊੵ㕚凜焠 "
+  ],
+  "highlighter_settings": {
+    "alwaysShowHighlights": true,
+    "highlighterEnabled": true,
+    "highlightBehavior": "replace-content"
+  },
+  "template_list": [
+    "1731345422729xz46j859l",
+    "1731345407227d81jd5ist"
+  ]
+}

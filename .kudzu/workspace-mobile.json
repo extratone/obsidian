@@ -198,8 +198,8 @@
       "obsidian-importer:Open Importer": false,
       "obsidian-leaflet-plugin:Open Leaflet Map": false,
       "canvas:Create new canvas": false,
-      "obsidian42-brat:BRAT": false,
-      "icloud-contacts:Update Contacts": false
+      "icloud-contacts:Update Contacts": false,
+      "obsidian42-brat:BRAT": false
     }
   },
   "active": "4ef4f8f5f3346aca",

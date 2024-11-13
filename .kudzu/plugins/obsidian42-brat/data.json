@@ -1,5 +1,7 @@
 {
   "pluginList": [
+    "pulsovi/obsidian_eml_reader",
+    "joleaf/obsidian-email-block-plugin",
     "Trulsaa/obsidian-icloud-contacts",
     "nathonius/obsidian-trello",
     "vslinko/obsidian-outliner",
@@ -11,7 +13,7 @@
   "updateThemesAtStartup": true,
   "enableAfterInstall": true,
   "loggingEnabled": true,
-  "loggingPath": "logs/BRAT",
+  "loggingPath": "logs",
   "loggingVerboseEnabled": true,
   "debuggingMode": false,
   "notificationsEnabled": true,
