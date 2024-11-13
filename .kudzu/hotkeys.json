@@ -114,7 +114,9 @@
       "key": "-"
     }
   ],
-  "editor:delete-paragraph": [],
+  "editor:delete-paragraph": [
+
+  ],
   "file-explorer:reveal-active-file": [
     {
       "modifiers": [
@@ -149,7 +151,9 @@
       "key": "ArrowDown"
     }
   ],
-  "graph:open": [],
+  "graph:open": [
+
+  ],
   "homepage:open-homepage": [
     {
       "modifiers": [
@@ -193,15 +197,6 @@
         "Mod"
       ],
       "key": "U"
-    }
-  ],
-  "editor:insert-codeblock": [
-    {
-      "modifiers": [
-        "Mod",
-        "Shift"
-      ],
-      "key": "C"
     }
   ],
   "editor:insert-table": [
@@ -314,14 +309,30 @@
       "key": "1"
     }
   ],
-  "workspace:goto-tab-1": [],
-  "workspace:goto-tab-2": [],
-  "workspace:goto-tab-3": [],
-  "workspace:goto-tab-4": [],
-  "workspace:goto-tab-5": [],
-  "workspace:goto-tab-6": [],
-  "workspace:goto-tab-7": [],
-  "workspace:goto-tab-8": [],
+  "workspace:goto-tab-1": [
+
+  ],
+  "workspace:goto-tab-2": [
+
+  ],
+  "workspace:goto-tab-3": [
+
+  ],
+  "workspace:goto-tab-4": [
+
+  ],
+  "workspace:goto-tab-5": [
+
+  ],
+  "workspace:goto-tab-6": [
+
+  ],
+  "workspace:goto-tab-7": [
+
+  ],
+  "workspace:goto-tab-8": [
+
+  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
@@ -456,5 +467,33 @@
       "key": "N"
     }
   ],
-  "file-explorer:new-file-in-new-pane": []
+  "file-explorer:new-file-in-new-pane": [
+
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Alt",
+        "Ctrl"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:insert-codeblock": [
+    {
+      "modifiers": [
+        "Ctrl"
+      ],
+      "key": "`"
+    }
+  ]
 }
