@@ -1,0 +1,23 @@
+{
+	"schemaVersion": "0.1.0",
+	"name": "Discourse",
+	"behavior": "create",
+	"noteContentFormat": "{{content}}",
+	"properties": [
+		{
+			"name": "category",
+			"value": "{{meta:property:og:article:section}}",
+			"type": "checkbox"
+		},
+		{
+			"name": "created",
+			"value": "{{meta:property:article:published_time}}",
+			"type": "date"
+		}
+	],
+	"triggers": [
+		"https://community.infiniteflight.com"
+	],
+	"noteNameFormat": "{{title}}",
+	"path": "discourse"
+}
