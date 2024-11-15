@@ -58,12 +58,29 @@
     "interpreterEnabled": false,
     "interpreterAutoRun": false
   },
+  "template_1731657519599juuzr5knw": [
+    "ᯡࡓ䆬ƀ匥堰恕త猡ᘧ堮戡㡠àຠ〈≠͢ܤ烠␡刢尡ᠥ玆䠡ಁ⁀Ζ敬愵آ7፺ᱹ爣֓攅䠦ዪ䢶㧐〨畑ᨢ緭砠㫂曖䭃ظĠ浰ఽ䳨ϐ͑䠠氠♂ၠᎨ䑡ࠡ〣丝糑㢟㟂䆩䡤疰øᑠ∨峖ᙨࣧᾹ㐅䠢㰽䴒/Ǚ媳済␔ڧ䋂㇑⛆䀧Ġ֌ 珲ᦸ泈峞ᅩⳈ棫ၧ拻洽㘘Ⲙ繜睚孧⢎擠婠洽ἠ灸㉚ᜳࠆ孻稜®槬擔䝁䇲䋑⩴ᦠ欻࿥摐がǢ壮窹⇢ʎ皨؇岚⟟✵哸朹ர䔞姁آ戆ࠡⳗ̨⌧֤⁐᱉戧ᳪ曋⦮拚ް‥㌙ↁ墄ᔫ㕀䀮皧ٰ㾢⃨⥀ܥ抰ヶᎷɹ䇋〽Ⲣ偺仝䩦㥈捪疈Ú㎩強䓰坞܇嬈攬#䪄㩝๡ٴ〮㫧ᅡ䱖ⓧǓ煞ᾲΕ䄱⡶⁤䊨䉆᧐汎ᔤᐡ噘೏䅒㑖猯⮂爦℠崀硗ဠ "
+  ],
   "general_settings": {
     "showMoreActionsButton": false,
     "legacyMode": false,
     "silentOpen": false,
     "betaFeatures": false
   },
+  "template_1731345407227d81jd5ist": [
+    "ᯡࡅ䁬⁼ၦǸڃ䤡〵䚠ᠰጾрǧKй䀹怫䐠㑀ϐࢀᛠ⦬အઐڊ怵怦潩䀱厠׋Wᠠ笠✾æᖽⶋ㥖㉻倮⇳䀸喛຾惡㓢檬瀫皘戠ǧ♯⣐ާ䰹䀮㛇㠺疜䫬嵘䖪䫾䬫㝵䟦楽漉㣮'䕄༁煲⢚㡵皼ईV吲Ϩ䅧ↂ瀨ࠠ睜ⓓϣȇͷ檸稍ບ႙⭈塻䪷を㮇᰹൰堶橆ܿࡪᏠ䏨Ǎ㐠⽜㙄Ⲗ൤嘱⯉⚆猫ၻ␈喝㸩徦ₖ盞悡䥢Ŗ#ㅴ㊂܅愐≺٪叙⾙䛬ł⢵#盀㰡ⴺ 甸!಻䖔怳䰠୐❼Ⲥ傤㼭姈ה筮嚬⇁呐(甫命㱝焓Ҳz䆲㡰ጽྚ汲䳆䞴ℌ忳䶊瘽ℵ䛢䐾⑌䖂℠✤凂梔պ᭐挶࡝巊㓖⺞别⅁Ő嚢瘒傭嬠䂊䵀⾅䔽㟆Ḿ元པ㳧㰞淗ႈ⅍ħ䙥儂糄ᨹƈ噘⬾㩠甠␱ы朠௄拰⩐ᑊੵ㕚凜焠 "
+  ],
+  "highlighter_settings": {
+    "alwaysShowHighlights": true,
+    "highlighterEnabled": true,
+    "highlightBehavior": "no-highlights"
+  },
+  "template_list": [
+    "1731657519599juuzr5knw",
+    "17316206900949l0q6gi",
+    "1731345422729xz46j859l",
+    "1731345407227d81jd5ist"
+  ],
   "property_types": [
     {
       "name": "title",
@@ -73,7 +90,7 @@
     {
       "name": "source",
       "type": "text",
-      "defaultValue": "{{url}}"
+      "defaultValue": "{{domain}}"
     },
     {
       "name": "author",
@@ -87,8 +104,7 @@
     },
     {
       "name": "created",
-      "type": "date",
-      "defaultValue": "{{date}}"
+      "type": "date"
     },
     {
       "name": "description",
@@ -99,18 +115,18 @@
       "name": "tags",
       "type": "multitext",
       "defaultValue": "clippings"
+    },
+    {
+      "name": "category",
+      "type": "text"
+    },
+    {
+      "name": "url",
+      "type": "text",
+      "defaultValue": "{{url}}"
     }
   ],
-  "template_1731345407227d81jd5ist": [
-    "ᯡࡅ䁬⁼ၦǸڃ䤡〵䚠ᠰጾрǧKй䀹怫䐠㑀ϐࢀᛠ⦬အઐڊ怵怦潩䀱厠׋Wᠠ笠✾æᖽⶋ㥖㉻倮⇳䀸喛຾惡㓢檬瀫皘戠ǧ♯⣐ާ䰹䀮㛇㠺疜䫬嵘䖪䫾䬫㝵䟦楽漉㣮'䕄༁煲⢚㡵皼ईV吲Ϩ䅧ↂ瀨ࠠ睜ⓓϣȇͷ檸稍ບ႙⭈塻䪷を㮇᰹൰堶橆ܿࡪᏠ䏨Ǎ㐠⽜㙄Ⲗ൤嘱⯉⚆猫ၻ␈喝㸩徦ₖ盞悡䥢Ŗ#ㅴ㊂܅愐≺٪叙⾙䛬ł⢵#盀㰡ⴺ 甸!಻䖔怳䰠୐❼Ⲥ傤㼭姈ה筮嚬⇁呐(甫命㱝焓Ҳz䆲㡰ጽྚ汲䳆䞴ℌ忳䶊瘽ℵ䛢䐾⑌䖂℠✤凂梔պ᭐挶࡝巊㓖⺞别⅁Ő嚢瘒傭嬠䂊䵀⾅䔽㟆Ḿ元པ㳧㰞淗ႈ⅍ħ䙥儂糄ᨹƈ噘⬾㩠甠␱ы朠௄拰⩐ᑊੵ㕚凜焠 "
-  ],
-  "highlighter_settings": {
-    "alwaysShowHighlights": true,
-    "highlighterEnabled": true,
-    "highlightBehavior": "replace-content"
-  },
-  "template_list": [
-    "1731345422729xz46j859l",
-    "1731345407227d81jd5ist"
+  "template_17316206900949l0q6gi": [
+    "ᯡࡓ䆬ƀ匥堰恕త猡ᘧ堮戡㡠àຠ〈≠͢ܤ烠␠∺⋠⯚➈҃ԡ;孊㌨呐ࠠ嶙榃䠬ᗧᎦ‸䭊∹曡䁂哧⠫畓∠ǵଵ娹౐怨Ί䂀Ŗ㍀໠೦‣〡ᢨ䄠乂ᄤ‥䀮㠓狥戝廔穦㍃䙠Ώᘰ⌆㢹Цᴜ秅䙠ਏ㛩䀠㴕⛴ྏℿ偔ḵভ䙖ᨠᰨKჿዳᩲ܅智ப㌦䘹ɞۮ愃⿢揧焆嗔嬚愼姄૾樐ܥ䍃冑塁尹ᡊャᢥ䣣揔㔫ᅤ埳Ë㫳㟒僕⻿ちℸп១䁐б旡เ৫疠†㖿֤㕎㚨؁巚箿✱䄘⬵䟧砠䜯䭈≩剙ᵂɍ䃒吳ǌ᭻ሽף๤☡媐籼嶫ʘ⎱䓧㇬➧煇⺽ⷧ傛穕✩捂爱⭆㌡㣈Р刧ᛠ☮⍵橓㧥倢疮否༷䓰᝞ଁÀ᤬䖃Ȑ]੔㇠灮ܡ䋴␬ܠƹ叩䰽᮷拁䤮ᤡ㴪Რδ糔ᵌ䈨咀䱵䭂䁕瘱䷡⍌犎奭甾墤⮲Ⴙ⃜↤墬申⟄ᄡ乎ⵙǞ⬬䷢ㅬ† "
   ]
 }
