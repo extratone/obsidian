@@ -28,17 +28,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configuration/iCloud Contacts.md",
+                "file": "configuration/Glass Series obsidian-web-clipper Template.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "iCloud Contacts"
+              "title": "Glass Series obsidian-web-clipper Template"
+            }
+          },
+          {
+            "id": "0165f4835369478a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "configuration/Glass Series obsidian-web-clipper Template.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "Glass Series obsidian-web-clipper Template"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -168,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "configuration/iCloud Contacts.md"
+            "file": "configuration/Glass Series obsidian-web-clipper Template.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -202,11 +217,23 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "4ef4f8f5f3346aca",
+  "active": "1dc7799a8371d119",
   "lastOpenFiles": [
+    "documentation",
+    "i/What’s new in Final Cut Pro for iPad.md",
+    "configuration/Glass Series obsidian-web-clipper Template.md",
+    "i/Market with App Store.md",
+    "honk/Begging the Toyota Avalon for Self-Fulfillment.md",
+    "i",
+    "vocabulary/Penchant  Definition of Penchant by Merriam-Webster.md",
+    "vocabulary",
+    "incoming/Exporting Your Data.md",
+    "honk",
+    "incoming/Flightplan files - v11 .fms file format - X-Plane Developer.md",
+    "configuration/iCloud Contacts.md",
+    "incoming",
     "media/example_contact_file.png",
     "README.md",
-    "configuration/iCloud Contacts.md",
     "configuration",
     "logs",
     "h.md",
@@ -232,24 +259,12 @@
     "gerogerigegege",
     "canvas/SpaceHey.canvas",
     "test",
-    "social/spacehey",
-    "Untitled 1",
-    "canvas",
     "paper/Desk/Twitter_Thrives_on_Incompetence.md",
-    "paper/Desk/Dropbox_Paper_Review.md",
-    "paper/Desk/Remembering_Byte_Magazine.md",
-    "paper/Desk/Microsoft_Edge_for_iOS.md",
-    "paper/Desk/5_Days_of_Soylent_Isiah.md",
-    "paper/XIII_My_Very_Own_iOS_Release.md",
-    "paper/Brainstorm_Summer_Issue.md",
-    "paper/Equipment_Acquisition.md",
-    "paper/Extratone/Obituaries",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest1.jpg",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest3.jpg",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest2.jpg",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest6.jpg",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest7.jpg",
-    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest5.jpg",
-    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest4.jpg"
+    "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest5.jpg"
   ]
 }
