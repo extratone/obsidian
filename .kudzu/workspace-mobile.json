@@ -43,13 +43,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "configuration/Glass Series obsidian-web-clipper Template.md",
-                "mode": "source",
+                "file": "meta/Extratone YouTube Channel.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "Glass Series obsidian-web-clipper Template"
+              "title": "Extratone YouTube Channel"
             }
           }
         ],
@@ -183,7 +183,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "configuration/Glass Series obsidian-web-clipper Template.md"
+            "file": "meta/Extratone YouTube Channel.md"
           },
           "icon": "lucide-list",
           "title": "Outline"
@@ -217,11 +217,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "1dc7799a8371d119",
+  "active": "0165f4835369478a",
   "lastOpenFiles": [
+    "configuration/Glass Series obsidian-web-clipper Template.md",
+    "meta/Extratone YouTube Channel.md",
+    "meta",
     "documentation",
     "i/What’s new in Final Cut Pro for iPad.md",
-    "configuration/Glass Series obsidian-web-clipper Template.md",
     "i/Market with App Store.md",
     "honk/Begging the Toyota Avalon for Self-Fulfillment.md",
     "i",
@@ -256,9 +258,7 @@
     "haai-raexchange.mp3",
     "IMG_3622.webp",
     "Notion AI Mermaid Chart.md",
-    "gerogerigegege",
     "canvas/SpaceHey.canvas",
-    "test",
     "paper/Desk/Twitter_Thrives_on_Incompetence.md",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest1.jpg",
     "blimp/_resources/MAPQUEST_OFFICE_Setting_-_1555_Baker_Street,_Denver,_CO.resources/mapquest3.jpg",
